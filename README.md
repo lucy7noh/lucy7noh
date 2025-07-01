@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=rounded)
 <!--
 **lucy7noh/lucy7noh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
