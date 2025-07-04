@@ -18,4 +18,4 @@
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 ## state
-[![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucy)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy7noh&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
