@@ -20,5 +20,6 @@
 
 
 ## state
-[![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy7noh)](https://github.com/lucy7noh/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucy7noh)](https://github.com/lucy7noh/github-readme-stats)
+[![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy7noh)](https://github.com/lucy7noh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucy7noh)](https://github.com/lucy7noh/github-readme-stats)
 
