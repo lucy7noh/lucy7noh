@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=사용자이름)](https://github.com/사용자이름/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucy7noh)](https://github.com/lucy7noh/github-readme-stats)
 
 
 ## state
