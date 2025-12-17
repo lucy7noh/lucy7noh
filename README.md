@@ -23,7 +23,7 @@
     → *"피로 회복"*, *"에너지 충전"* 등 시즌별 니즈 변화 도출
 
 
-## 🧪 Vita Check /FE  
+###🧪 Vita Check /FE  
 📌 **React 기반 반응형 웹사이트**
 
 🛠 **담당 역할**
@@ -32,6 +32,7 @@
 - 성분 설명 / 대체 식품 / 관련 영양제 정보 제공
 - 즐겨찾기 · 공유하기 기능 구현
 - 해당 페이지의 프론트엔드 + API 연동
+- 
 ## 🛠 Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/React-1DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
