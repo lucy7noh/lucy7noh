@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=fee1f3&text=%F0%9F%8E%80%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBWelcome%20to%20Lucy%27s%20GitHub%21%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%F0%9F%8E%80&fontSize=10)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=fee1f3&text=%F0%9F%8E%80%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBWelcome%20to%20Lucy%27s%20GitHub%21%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%F0%9F%8E%80&fontSize=25)
 
 ## 👩‍💻 Project
 ### 🏅 가비아 전국 대학생 웹사이트 제작 공모전 (2등)
