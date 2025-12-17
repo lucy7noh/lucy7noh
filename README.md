@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=fee1f3&text=%F0%9F%8E%80%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBWelcome%20to%20Lucy%27s%20GitHub%21%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%F0%9F%8E%80&fontSize=25)
 
-## 👩‍💻 Project
+## Project
 ### 🏅 가비아 전국 대학생 웹사이트 제작 공모전 (2등)
 기획 / UI·UX 디자인 / 웹 개발 / 홍보 마케팅 
 **누적 방문자 수 10,000명 이상 유입**
@@ -25,7 +25,7 @@
 ### 🧪 Vita Check /FE  
 📌 **React 기반 반응형 웹사이트**
 
-🛠 **담당 역할**
+ **담당 역할**
 - 성분 상세 페이지 개발
 - 성분 검색 기능 구현
 - 성분 설명 / 대체 식품 / 관련 영양제 정보 제공
