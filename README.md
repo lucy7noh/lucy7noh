@@ -31,6 +31,7 @@
 <div align="center">
 
 ![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy7noh&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lucy7noh&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
