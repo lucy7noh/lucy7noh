@@ -31,7 +31,6 @@
 <div align="center">
 
 ![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy7noh&show_icons=true&theme=tokyonight)
-![github-stats](https://stats.hyo.dev/api/github-stats?login=lucy7noh)
 
 </div>
 
