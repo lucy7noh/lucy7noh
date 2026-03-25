@@ -33,3 +33,5 @@
 ![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy7noh&show_icons=true&theme=tokyonight)
 
 </div>
+
+profile-3d-contrib/profile-customize.svg
