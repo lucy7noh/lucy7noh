@@ -18,7 +18,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          theme: night-rainbow
       - name: Commit & Push
         run: |
           git config user.name lucy7noh
