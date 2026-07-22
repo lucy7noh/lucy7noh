@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/lucy7noh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=53FFDA&center=true&vCenter=true&width=500&height=70&lines=Welcome!+🐈%E2%80%8D⬛;This+is+LUCY's+GitHub." alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Welcome!%20🐈‍⬛&desc=This%20is%20LUCY's%20GitHub.&fontSize=50&descSize=20&fontColor=ffffff" alt="Slice Header" />
 </div>
 
 <h2 align="center">🛠 Tech Stack</h2>
