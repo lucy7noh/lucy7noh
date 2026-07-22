@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=nebula&color=53FFDA,B085F9,FA6488&height=320&section=header&text=Welcome!%20%F0%9F%90%88%E2%80%8D%E2%AC%9B&desc=This%20is%20LUCY%27s%20GitHub.&fontSize=60&descSize=25&fontColor=fff&fontAlignY=45&descAlignY=82" alt="Lucy's Header" />
+  <img src="https://capsule-render.vercel.app/api?type=nebula&color=53FFDA,B085F9,FA6488&height=320&section=header&text=Welcome!&desc=This%20is%20LUCY%27s%20GitHub.&fontSize=60&descSize=25&fontColor=fff&fontAlignY=45&descAlignY=82" alt="Lucy's Header" />
 </div>
 
 <h2 align="center">🛠 Tech Stack</h2>
