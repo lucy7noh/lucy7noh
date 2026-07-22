@@ -29,8 +29,9 @@
 
 </div>
 
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucy7noh&theme=onedark&column=6&margin-w=15&margin-h=15" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lucy7noh&theme=onedark" />
 </div>
 
 
