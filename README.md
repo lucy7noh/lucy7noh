@@ -35,7 +35,7 @@
 
 ![Lucy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lucy7noh&show_icons=true&theme=dark)
 
-<img src="https://github-profile-trophy.vercel.app/?username=lucy7noh&theme=onedark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucy7noh&theme=dracula" alt="Profile Summary" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucy7noh&theme=dark)
 </div>
