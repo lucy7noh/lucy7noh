@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=304F3F&height=550§ion=header&text=Welcome!🐈‍⬛&desc=This%20is%20LUCY's%20GitHub.%20&fontSize=70&descSize=30&fontColor=ccffcc&fontAlignY=40&descAlignY=80)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=nebula&color=53FFDA,B085F9,FA6488&height=320&section=header&text=Welcome!%20🐈‍⬛&desc=This%20is%20LUCY's%20GitHub.&fontSize=60&descSize=25&fontColor=fff&fontAlignY=45&descAlignY=82" alt="Neon Nebula Header" />
+</div>
 
 <h2 align="center">🛠 Tech Stack</h2>
 
@@ -34,8 +36,6 @@
 <div align="center">
 
 ![Lucy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lucy7noh&show_icons=true&theme=dark)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucy7noh&theme=dracula" alt="Profile Summary" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucy7noh&theme=dark)
 </div>
