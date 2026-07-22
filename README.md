@@ -33,8 +33,8 @@
 
 <div align="center">
 
-![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy7noh&show_icons=true&theme=tokyonight)
-
+![Lucy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lucy7noh&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucy7noh&layout=compact&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=lucy7noh&theme=dark)](https://git.io/streak-stats)
 
 </div>
