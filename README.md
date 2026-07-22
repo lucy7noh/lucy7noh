@@ -29,14 +29,13 @@
 
 </div>
 
-
-<h2 align="center">State</h2>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lucy7noh&theme=onedark&column=6&margin-w=15&margin-h=15" alt="lucy7noh trophy" />
 </div>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucy7noh&theme=dark)
 </div>
+
+<h2 align="center">State</h2>
 
 <div align="center">
 
