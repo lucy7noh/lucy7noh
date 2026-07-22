@@ -39,4 +39,4 @@
 
 </div>
 
-![3D Contribution Graph](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution Graph](https://raw.githubusercontent.com/lucy7noh/lucy7noh/main/profile-3d-contrib/profile-night-rainbow.svg)
