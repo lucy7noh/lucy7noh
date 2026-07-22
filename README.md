@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=nebula&color=53FFDA,B085F9,FA6488&height=320&section=header&text=Welcome!&desc=This%20is%20LUCY%27s%20GitHub.&fontSize=60&descSize=25&fontColor=fff&fontAlignY=45&descAlignY=82" alt="Lucy's Header" />
+  <a href="https://github.com/lucy7noh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=53FFDA&center=true&vCenter=true&width=500&height=70&lines=Welcome!+🐈%E2%80%8D⬛;This+is+LUCY's+GitHub." alt="Typing SVG" />
+  </a>
 </div>
 
 <h2 align="center">🛠 Tech Stack</h2>
