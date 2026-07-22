@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Welcome!%20🐈‍⬛&desc=This%20is%20LUCY's%20GitHub.&fontSize=50&descSize=20&fontColor=ffffff" alt="Slice Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=puple&height=200&section=header&text=Welcome!%40&desc=This%20is%20LUCY's%20GitHub.&fontSize=50&descSize=20&fontColor=ffffff" alt="Slice Header" />
 </div>
 
 <h2 align="center">🛠 Tech Stack</h2>
