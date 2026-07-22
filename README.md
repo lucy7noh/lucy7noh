@@ -32,13 +32,16 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lucy7noh&theme=onedark&column=6&margin-w=15&margin-h=15" alt="lucy7noh trophy" />
 </div>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucy7noh&theme=dark)
-</div>
+
 
 <h2 align="center">State</h2>
 
 <div align="center">
 
 ![Lucy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lucy7noh&show_icons=true&theme=dark)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucy7noh&theme=dark)
+</div>
 
 ![3D Contribution Graph](https://raw.githubusercontent.com/lucy7noh/lucy7noh/main/profile-3d-contrib/profile-night-rainbow.svg)
