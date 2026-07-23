@@ -36,7 +36,6 @@
 <div align="center">
 
 ![Lucy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lucy7noh&show_icons=true&theme=dark)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucy7noh&theme=dark)
 </div>
 
